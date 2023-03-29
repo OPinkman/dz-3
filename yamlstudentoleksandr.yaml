@@ -1,0 +1,27 @@
+student:
+  name: Oleksandr
+  surname: Movchaniuk
+  type: object
+  sex: Male
+  age: 23
+  height: 180
+  weight: 81.5
+  isMarried: false
+  isEmployeed: true
+  position: QA
+  education:
+    first:
+      place: University of Culture and Arts
+	  degree: bachelor
+	  startYear: 2017
+	  finishYear: 2021
+    second:
+      place: University of Culture and Arts
+	  degree: null
+	  startYear: 2021
+	  finishYear: 2021
+  locations: [lviv, kyiv, uman]
+  locationwerelive:
+   - "kyiv"
+   - "uman"
+   - "lviv"
