@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<descriptionOfStudent>
+  <object category="student">
+    <name>Oleksandr</name>
+	<surname>Movchaniuk</surname>
+	<sex>Male</sex>
+	<age>23</age>
+	<height>180</height>
+	<weight>81.5</weight>
+	<isMarried>false</isMarried>
+	<isEmployeed>true</isEmployeed>
+	<position>QA</position>
+	<education>
+	  <first educationalInstitution="university">
+	    <place>University of Culture and Arts</place>
+	    <degree>bachelor</degree>
+		<startYear>2017</startYear>
+		<finishYear>2021</finishYear>
+	  </first>
+	  <second educationalInstitution="courses">
+	    <place>progKievUa</place>
+		<degree></degree>
+		<startYear>2021</startYear>
+		<finishYear>2021</finishYear>
+	  </second>
+	</education>
+	<location>lviv, kiev, Uman</location>
+  </object>
+</descriptionOfStudent>
+</?xml>
